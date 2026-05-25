@@ -1,0 +1,4 @@
+../Core/Src/WS2812B.c:8:13:value_to_bytes	24	static
+../Core/Src/WS2812B.c:21:6:ws2812b_init	16	static
+../Core/Src/WS2812B.c:33:6:ws2812b_update	8	static
+../Core/Src/WS2812B.c:37:6:ws2812b_set_color	16	static
